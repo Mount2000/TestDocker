@@ -1,0 +1,19 @@
+{
+  "name": "testdocker",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mount2000/TestDocker.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mount2000/TestDocker/issues"
+  },
+  "homepage": "https://github.com/Mount2000/TestDocker#readme",
+  "description": ""
+}
